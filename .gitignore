@@ -1,0 +1,9 @@
+#
+# ------------------------------
+.vscode/*
+data/*
+dist/*
+
+*.exe
+*.json
+!config-dist.json
